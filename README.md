@@ -13,5 +13,3 @@ your projects, back up data, share your work with others, and collaborate
 with programmers and other users of Git.
 
 [Official Git Documentation](https://github.com/NKukava/firstrep)
-
-123
